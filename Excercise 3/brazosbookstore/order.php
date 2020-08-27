@@ -1,1 +1,0 @@
-<?php include './mini-header-withoutCart.php' ?>
