@@ -11,9 +11,9 @@ Trang Web với back-end được viết bằng PHP và front-end dựa trên `B
 ### Với Bài 1 và Bài 2:
 Xem tài liệu `readme.docx` của từng bài.
 ### Với Bài 3:
-Bước 1: 
-- Cài đặt database bằng file `script.sql`.
-Bước 2: 
-- Coppy các thư mục vào đường dẫn `*\wamp64\www\`.
-Bước 3:
-- Khởi chạy wampserver và truy cập vào đường dẫn `http://localhost/brazosbookstore/` hoặc `http://localhost/admin-site/` với trang quản trị.
+- Bước 1: 
+Cài đặt database bằng file `script.sql`.
+- Bước 2: 
+Coppy các thư mục vào đường dẫn `*\wamp64\www\`.
+- Bước 3:
+Khởi chạy wampserver và truy cập vào đường dẫn `http://localhost/brazosbookstore/` hoặc `http://localhost/admin-site/` với trang quản trị.
