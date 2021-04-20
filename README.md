@@ -1,5 +1,7 @@
 # Lập Trình Web
   - Ba bài tập lớn môn Lập trình Web 2019.
+## Mục đích
+Nghiên cứu sử dụng PHP kết hợp với WordPress và một số kỹ thuật khác như AJAX và Lazy-loading.
 ## Giới thiệu
 ### Bài 1 `Excercise 1`
 Giao diện trang web bán sách viết bằng Bootstrap v4, FontAwesome v5, và một số thư viện khác.
